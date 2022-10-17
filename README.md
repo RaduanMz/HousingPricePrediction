@@ -15,6 +15,8 @@ link up the GIT folder
     git config --global user.email "_email_"
 
 adding the files from local computer to git cloud 
-    "git add ." for transfer all the files or folder which is inside the local folder
+    "git add ." for transfer all the files which is inside the local folder
+        or "git add <filename.ext>" for specific file
     "git commit -m "commit message" for the commiting massage for the git hub
     "git push <remote> <branch>" (origin & main)
+    you can check the status using "git status"
